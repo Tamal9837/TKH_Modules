@@ -1,0 +1,49 @@
+1.	What is a computer really doing whenever you type a letter on a keyboard?
+Answer: The keyboard is a mechanical device which has keys. The keys when pressed generate a code / electric signal. This signal is given to CPU via the wire. The CPU translates the signal using program for keyboard which is drivers for your keyboard. This signal gets translated into code for a key that we pressed. This is then passed to program for display which translates into format for the monitor
+2.	How do computer use input and output to create experience?
+Answer: The central processing unit is the unseen part of a computer system, and users are only dimly aware of it. But users are very much aware of the input and output associated with the computer. They submit input data to the computer to get processed information, the output.
+
+3.	Explain why software products are essentially “infinitely reproducible nothings”
+Answer: Today, it is difficult to imagine a successful business model without online marketing. In the next few years, it will be one of the top ways that determines how well your business grows. Businesses need online platforms and mobile apps because they impact how customers reach you and shop for your products and services.
+•	Software development brings your business to new heights of integration. It allows your company to be accessible from almost anywhere via smartphone or computer.
+•	It improves sales and service. The way your customers experience your business is very important
+•	It helps to implement on-the-go marketing, promoting your products at any place and any time without additional expenses and extra time needed. I
+Data management is one of the major problems that must solved by the programming languages
+4.	 Explain in your own word how code becomes software
+Answer: A software is combination of code, that is mean code are make a software and after then this software become a product.
+5.	Explain “algorithms” in your words?
+Answer: An algorithm is a finite list of instructions, most often used in solving problems or performing tasks. You may have heard the term used in some fancy context about a genius using an algorithm to do something highly complex, usually in programming. Indeed, you've most likely heard the term used to explain most things related to computer processes. However, what would you say if I was to tell you that there is a very good chance that you, yourself, have followed an algorithm? You may have followed some algorithms hundreds or thousands of times!
+6.	Explain the DRY principle
+Answer:   Don't repeat yourself (DRY, or sometimes do not repeat yourself) is a principle of software development aimed at reducing repetition of software patterns, replacing it with abstractions or using data normalization to avoid redundancy.
+7.	What is object-oriented programming?
+Answer: Object-oriented programming (OOP) is a fundamental programming paradigm used by nearly every developer at some point in their career. OOP is the most popular programming paradigm and is taught as the standard way to code for most of a programmer’s educational career.
+8.	Explain data and how it relates to code
+Answer: Let us start by understanding what a code is. At the simplest level, a code is a label that describes the content of a piece of text. For example, in the sentence:
+“Pigeons attacked me and stole my sandwich.”
+You could use “pigeons” as a code. This code simply describes that the sentence involves pigeons.
+So, building onto this, qualitative data coding is the process of creating and assigning codes to categorize data extracts.  You will then use these codes later down the road to derive themes and patterns for your qualitative analysis. Coding and analysis can take place simultaneously, but it is important to note that coding does not necessarily involve identifying themes 
+
+9.	What is a framework
+Answer: Since they are often built, tested, and optimized by several experienced software engineers and programmers, software frameworks are versatile, robust, and efficient.
+Using a software framework to develop applications lets you focus on the high-level functionality of the application. This is because any low-level functionality is taken care of by the framework itself.
+In computer programming, a software framework is an abstraction in which software, providing generic functionality, can be selectively changed by additional user-written code, thus providing application-specific software. It provides a standard way to build and deploy applications and is a universal, reusable software environment that provides functionality as part of a larger software platform to facilitate the development of software applications, products and solutions.
+10.	Word what is debugging 
+Answer: In computer programming and software development, debugging is the process of finding and resolving bugs (defects or problems that prevent correct operation) within computer programs, software, or systems.
+Definition of Debugging, Debugging Meaning - The Economic Times Definition: A software for which the original source code is made freely available and may be redistributed and modified according to the requirement of the user.
+
+Ex2 
+	What is Git and how is it different than GitHub?
+Answer: Git is a revision control system, a tool to manage your source code history.
+GitHub is a hosting service for Git repositories.
+So, they are not the same thing: Git is the tool, GitHub is the service for projects that use Git.
+
+	What is Terminal? 
+Answer: The Terminal, also known as the command line or a Terminal emulator, is an essential component of any useful operating system. It is by far one of the most important applications on Mac and Linux. The Terminal provides an efficient interface to access the true power of a computer better than any graphical interface.
+	Explain 3 benefits of version control in your own words.
+Answer: Using version control software is a best practice for high performing software and DevOps teams. Version control also helps developers move faster and allows software teams to preserve efficiency and agility as the team scales to include more developers.
+Regardless of what they are called, or which system is used, the primary benefits you should expect from version control are as follows.
+1.	A complete long-term change history of every file. This means every change made by many individuals over the years. Changes include the creation and deletion of files as well as edits to their contents. Different VCS tools differ on how well they handle renaming and moving of files. This history should also include the author, date, and written notes on the purpose of each change. 
+2.	Branching and merging. Having team members work concurrently is a no-brainer, but even individuals working on their own can benefit from the ability to work on independent streams of changes. 
+3.	Traceability. Being able to trace each change made to the software and connect it to project management and bug tracking software such as Jira, and being able to annotate each change with a message describing the purpose and intent of the change can help not only with root cause analysis and other forensics.
+
+    
